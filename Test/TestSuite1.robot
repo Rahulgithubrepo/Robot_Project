@@ -13,3 +13,6 @@ MyFirstTest
 MyFirstSeleniumTest
     Open Browser  ${URL}  ${Browser} 
     Close Browser 
+    
+My Second Test
+    Log  This is my second test
